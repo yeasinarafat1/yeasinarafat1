@@ -75,8 +75,8 @@ export const projects = [
     title: "i-Note Digital solution for taking note",
     des: "i-Note makes your life easier we acces your note from anywhere the internet",
     img: "/i-NoteDemo.png",
-    iconLists: ["/re.svg", "/tail.svg",],
-    link: "inote.render.com",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "project-i-note.onrender.com",
   },
   // {
   //   id: 2,
