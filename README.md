@@ -1,4 +1,4 @@
-<img src='profile_banner.png'/>
+<img src='https://media.licdn.com/dms/image/v2/D5616AQFBgXqJLtxoNQ/profile-displaybackgroundimage-shrink_350_1400/B56ZVc5EB8HQAc-/0/1741020332719?e=1746662400&v=beta&t=NMwehgF27b-mON3EOhguMppKKBt-ZTKhPpPA8oUjRWk'/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yeasinarafat27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yachenarafath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeasinarafat27) 
